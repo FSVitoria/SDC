@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SDC-import-fps") (type "KiCad") (uri "${KIPRJMOD}/SDC-import-fps.pretty") (options "kicad_import_cache=1") (descr ""))
+)
